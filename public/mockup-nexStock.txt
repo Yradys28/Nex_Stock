@@ -1,0 +1,13 @@
++-----------------------------------------------------------------------------------+
+| nexStock - Sistema de Inventario y Caja                   [ Minimizar ] [ Cerrar] |
++------------------+----------------------------------------------------------------+
+|                  |                                                                |
+|  [ 📊 Dashboard ] |  ACABAS DE ENTRAR A: Vista Principal (Resumen rápido)         |
+|  [ 📦 Inventario ]|                                                                |
+|  [ 💰 Caja / Dinero|  - Dinero actual en caja: $XXX.XX                              |
+|  [ 📈 Reportes ]  |  - Productos totales: XX       |  Bajos de stock: X            |
+|                  |                                                                |
+|                  |  [ Botón Rápido: Ingresar Producto ]                           |
+|                  |  [ Botón Rápido: Registrar Movimiento de Caja ]                |
+|                  |                                                                |
++------------------+----------------------------------------------------------------+
